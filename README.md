@@ -142,5 +142,3 @@ npm run build
 # Flask will serve the built files
 ```
 
-## License
-MIT
